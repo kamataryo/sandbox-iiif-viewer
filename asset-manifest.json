@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://kamataryo.github.io/sandox-iiif-viewer/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "https://kamataryo.github.io/sandox-iiif-viewer/static/js/main.451d0785.chunk.js",
-    "main.js.map": "https://kamataryo.github.io/sandox-iiif-viewer/static/js/main.451d0785.chunk.js.map",
-    "runtime-main.js": "https://kamataryo.github.io/sandox-iiif-viewer/static/js/runtime-main.9a4d52ee.js",
-    "runtime-main.js.map": "https://kamataryo.github.io/sandox-iiif-viewer/static/js/runtime-main.9a4d52ee.js.map",
-    "static/js/2.2812c3ea.chunk.js": "https://kamataryo.github.io/sandox-iiif-viewer/static/js/2.2812c3ea.chunk.js",
-    "static/js/2.2812c3ea.chunk.js.map": "https://kamataryo.github.io/sandox-iiif-viewer/static/js/2.2812c3ea.chunk.js.map",
-    "static/js/3.00e26051.chunk.js": "https://kamataryo.github.io/sandox-iiif-viewer/static/js/3.00e26051.chunk.js",
-    "static/js/3.00e26051.chunk.js.map": "https://kamataryo.github.io/sandox-iiif-viewer/static/js/3.00e26051.chunk.js.map",
-    "index.html": "https://kamataryo.github.io/sandox-iiif-viewer/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "https://kamataryo.github.io/sandox-iiif-viewer/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.2812c3ea.chunk.js.LICENSE.txt": "https://kamataryo.github.io/sandox-iiif-viewer/static/js/2.2812c3ea.chunk.js.LICENSE.txt"
+    "main.css": "https://kamataryo.github.io/sandbox-iiif-viewer/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "https://kamataryo.github.io/sandbox-iiif-viewer/static/js/main.451d0785.chunk.js",
+    "main.js.map": "https://kamataryo.github.io/sandbox-iiif-viewer/static/js/main.451d0785.chunk.js.map",
+    "runtime-main.js": "https://kamataryo.github.io/sandbox-iiif-viewer/static/js/runtime-main.eb9d1b06.js",
+    "runtime-main.js.map": "https://kamataryo.github.io/sandbox-iiif-viewer/static/js/runtime-main.eb9d1b06.js.map",
+    "static/js/2.2812c3ea.chunk.js": "https://kamataryo.github.io/sandbox-iiif-viewer/static/js/2.2812c3ea.chunk.js",
+    "static/js/2.2812c3ea.chunk.js.map": "https://kamataryo.github.io/sandbox-iiif-viewer/static/js/2.2812c3ea.chunk.js.map",
+    "static/js/3.00e26051.chunk.js": "https://kamataryo.github.io/sandbox-iiif-viewer/static/js/3.00e26051.chunk.js",
+    "static/js/3.00e26051.chunk.js.map": "https://kamataryo.github.io/sandbox-iiif-viewer/static/js/3.00e26051.chunk.js.map",
+    "index.html": "https://kamataryo.github.io/sandbox-iiif-viewer/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "https://kamataryo.github.io/sandbox-iiif-viewer/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.2812c3ea.chunk.js.LICENSE.txt": "https://kamataryo.github.io/sandbox-iiif-viewer/static/js/2.2812c3ea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9a4d52ee.js",
+    "static/js/runtime-main.eb9d1b06.js",
     "static/js/2.2812c3ea.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.451d0785.chunk.js"
